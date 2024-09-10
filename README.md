@@ -20,11 +20,11 @@ Bem-vindo ao **Tetris Game**, um projeto que traz de volta a nostalgia dos anos 
 
 ## 📂 **Estrutura do Projeto**
 
-/tetris-game 
-    /assets 
-        /css styles.css // Estilo visual do jogo 
-        /js tetris.js // Toda a lógica do jogo 
-    index.html // Página principal do jogo
+/tetris-game
+	/assets
+		/css styles.css // Estilo visual do jogo
+  		/js tetris.js // Toda a lógica do jogo
+	index.html // Página principal do jogo
 
 
 📌 **index.html**: A página inicial onde o jogo é exibido.
@@ -48,7 +48,7 @@ Bem-vindo ao **Tetris Game**, um projeto que traz de volta a nostalgia dos anos 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/bruno-a-dias/tetris-game.git
+   git clone https://github.com/bruno-a-dias/tetris.git
 
 2. Abra o arquivo index.html em seu navegador preferido.
 
@@ -95,6 +95,6 @@ O jogo foi o primeiro software de entretenimento exportado da União Soviética 
 Tem alguma dúvida ou sugestão? Entre em contato!
 
 📧 Email: badmask84@gmail.com
-🐙 GitHub: github.com/bruno-a-dias
+🐙 GitHub: [github.com/bruno-a-dias](https://github.com/bruno-a-dias)
 
 🎉 Divirta-se jogando e aprendendo com este projeto! 🎉
