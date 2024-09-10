@@ -4,7 +4,9 @@
 
 Bem-vindo ao **Tetris Game**, um projeto que traz de volta a nostalgia dos anos 80 em uma versão totalmente moderna, usando apenas **HTML**, **CSS** e **JavaScript**. Aqui, você poderá mergulhar no mundo do Tetris, entender sua lógica e visualizar como um dos jogos mais icônicos de todos os tempos pode ser recriado do zero.
 
-![Tetris]
+[👉👉👉]
+[Clique aqui e teste no seu navegador! ](https://bruno-a-dias.github.io/tetris/)
+
 
 ---
 
@@ -20,7 +22,7 @@ Bem-vindo ao **Tetris Game**, um projeto que traz de volta a nostalgia dos anos 
 
 ## 📂 **Estrutura do Projeto**
 
-/tetris-game
+ /tetris-game
 	/assets
 		/css styles.css // Estilo visual do jogo
   		/js tetris.js // Toda a lógica do jogo
